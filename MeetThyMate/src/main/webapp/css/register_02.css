@@ -1,0 +1,9 @@
+body{
+        background-image: url("../images/background.jpg");
+		background-size: 100% auto;
+		background-repeat: no-repeat;
+}
+table{
+	color:black;
+	background-color:#ccffff;
+}

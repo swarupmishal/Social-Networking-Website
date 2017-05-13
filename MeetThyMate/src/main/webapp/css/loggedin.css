@@ -1,0 +1,16 @@
+body{
+        background-image: url("../images/background.jpg");
+		background-size: 100% 100%;
+		background-repeat: no-repeat;
+}
+h3{
+	color:white;
+}
+table{
+	color:black;
+	background-color:#ccffff;
+}
+.onClickCheck td{
+	background-color:black;
+	color:#ccffff;
+	}

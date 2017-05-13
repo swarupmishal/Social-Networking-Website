@@ -1,0 +1,13 @@
+body{
+        background-image: url("../images/background.jpg");
+		background-size: 100% 100%;
+		background-repeat: no-repeat;
+		color:#ffffcc;
+}
+table{
+	color:black;
+	background-color:#ccffff;
+}
+a{
+	color:#66ccff;
+}

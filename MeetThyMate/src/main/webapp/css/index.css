@@ -1,0 +1,21 @@
+body{
+        background-image: url("../images/background.jpg");
+		background-size: 100% 100%;
+		background-repeat: no-repeat;
+}
+div.font{
+	color:#ffffcc;
+	font-weight:bold;
+}
+div.button{
+	color:black;
+}
+input.textfield{
+	color:black;
+}
+
+#result1{
+	background-color:white;
+	color:red;
+	font-weight:bold;
+}
