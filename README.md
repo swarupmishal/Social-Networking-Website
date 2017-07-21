@@ -1,7 +1,8 @@
 # Social-Networking-Website
 
 ## What is the website about?
-The website is a social networking website, where one can make friends, send/receive messages, upload photos, see one's list of friends, and other networking features.
+The website is a social networking website, where one can make friends, send/receive messages, upload photos, see one's list of friends, and other networking features. The front end is formulated using HTML5, CSS, Ajax, JavaScript, JQuery, Bootstrap, AngularJS and Node.js for implementing various interactions the user can perform. The Back End is made up using web technologies like JSP, Hibernate. Created a database using MySQL workbench. The database maintained various tables of Users, Person, Address, Message and Friends which were interconnected. The website  has organized and streamlined content reducing the efforts and time on the users end to manage tasks.
+
 
 ## Softwares Required
 1. MySQL
